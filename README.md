@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srushti-HL/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0002-add-two-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
