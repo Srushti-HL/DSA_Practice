@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Srushti-HL/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
