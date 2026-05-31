@@ -51,6 +51,7 @@
 | [0014-longest-common-prefix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srushti-HL/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
