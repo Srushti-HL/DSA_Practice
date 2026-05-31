@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Srushti-HL/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
