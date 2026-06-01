@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
@@ -87,6 +88,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Srushti-HL/DSA_Practice/tree/master/0190-reverse-bits) |
 ## Trie
 |  |
@@ -106,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
