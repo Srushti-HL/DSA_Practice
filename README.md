@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srushti-HL/DSA_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Srushti-HL/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Srushti-HL/DSA_Practice/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
