@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
