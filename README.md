@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Srushti-HL/DSA_Practice/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
@@ -25,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Srushti-HL/DSA_Practice/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
