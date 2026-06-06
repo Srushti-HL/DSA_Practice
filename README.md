@@ -48,6 +48,7 @@
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 ## Recursion
@@ -67,6 +68,7 @@
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Srushti-HL/DSA_Practice/tree/master/0190-reverse-bits) |
 ## Trie
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
