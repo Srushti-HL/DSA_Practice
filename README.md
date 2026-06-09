@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Srushti-HL/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -70,12 +71,14 @@
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
