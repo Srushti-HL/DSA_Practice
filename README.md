@@ -71,6 +71,7 @@
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
@@ -95,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 ## Binary Search
