@@ -86,6 +86,7 @@
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
