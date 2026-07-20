@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
+| [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -177,6 +178,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
