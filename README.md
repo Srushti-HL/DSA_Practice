@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Srushti-HL/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Srushti-HL/DSA_Practice/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -111,6 +112,7 @@
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
@@ -240,5 +242,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
