@@ -55,6 +55,7 @@
 | [0061-rotate-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
