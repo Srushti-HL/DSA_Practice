@@ -43,6 +43,7 @@
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Srushti-HL/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0061-rotate-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
