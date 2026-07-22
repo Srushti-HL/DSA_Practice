@@ -57,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
