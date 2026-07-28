@@ -30,6 +30,7 @@
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Srushti-HL/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
