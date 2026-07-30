@@ -1,25 +1,28 @@
 class Solution:
-    def smallestSubsequence(self, s):
+    def smallestSubsequence(self, s: str) -> str:
+        last_index = {}
 
-        last = {}
+        # Store the last occurrence of each character
         for i, ch in enumerate(s):
-            last[ch] = i
+            last_index[ch] = i
 
         stack = []
-        visited = set()
+        seen = set()
 
         for i, ch in enumerate(s):
 
-            if ch in visited:
+            # Skip if already included
+            if ch in seen:
                 continue
 
+            # Make the result lexicographically smaller
             while (stack and
                    ch < stack[-1] and
-                   last[stack[-1]] > i):
+                   last_index[stack[-1]] > i):
 
-                visited.remove(stack.pop())
+                seen.remove(stack.pop())
 
             stack.append(ch)
-            visited.add(ch)
+            seen.add(ch)
 
         return "".join(stack)
