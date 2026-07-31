@@ -25,6 +25,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srushti-HL/DSA_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -47,6 +48,7 @@
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
