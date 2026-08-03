@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Srushti-HL/DSA_Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Srushti-HL/DSA_Practice/tree/master/0056-merge-intervals) |
@@ -80,6 +81,7 @@
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
@@ -301,6 +303,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 ## Enumeration
