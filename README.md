@@ -82,6 +82,7 @@
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Srushti-HL/DSA_Practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
@@ -100,6 +101,7 @@
 | [0002-add-two-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srushti-HL/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Srushti-HL/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Srushti-HL/DSA_Practice/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 ## String
 |  |
