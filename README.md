@@ -104,6 +104,7 @@
 | [0002-add-two-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srushti-HL/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Srushti-HL/DSA_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Srushti-HL/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Srushti-HL/DSA_Practice/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 ## String
@@ -118,6 +119,7 @@
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Srushti-HL/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Srushti-HL/DSA_Practice/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
@@ -162,6 +164,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Srushti-HL/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
@@ -285,6 +288,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Srushti-HL/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
