@@ -1,5 +1,5 @@
 class Solution:
-    def strStr(self, haystack, needle):
+    def strStr(self, haystack: str, needle: str) -> int:
         n = len(haystack)
         m = len(needle)
 
