@@ -97,6 +97,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Srushti-HL/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -135,6 +136,7 @@
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -229,6 +231,7 @@
 | [0077-combinations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -310,6 +314,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Srushti-HL/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bucket Sort
 |  |
