@@ -58,6 +58,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -131,6 +132,7 @@
 | [0087-scramble-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
@@ -262,6 +264,7 @@
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
