@@ -138,6 +138,7 @@
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -164,6 +165,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Quickselect
 |  |
