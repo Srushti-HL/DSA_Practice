@@ -40,6 +40,7 @@
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
