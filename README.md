@@ -39,6 +39,7 @@
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -241,6 +242,7 @@
 | [0020-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -280,6 +282,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
