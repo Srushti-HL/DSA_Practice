@@ -49,6 +49,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti-HL/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -152,6 +153,7 @@
 | [0709-to-lower-case](https://github.com/Srushti-HL/DSA_Practice/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0220-contains-duplicate-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Matrix
 |  |
 | ------- |
@@ -433,4 +436,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
