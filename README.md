@@ -54,6 +54,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti-HL/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srushti-HL/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -236,6 +237,7 @@
 | [0190-reverse-bits](https://github.com/Srushti-HL/DSA_Practice/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srushti-HL/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
 | ------- |
