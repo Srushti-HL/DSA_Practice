@@ -50,6 +50,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/Srushti-HL/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/Srushti-HL/DSA_Practice/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
@@ -388,6 +389,7 @@
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1672-richest-customer-wealth](https://github.com/Srushti-HL/DSA_Practice/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
 | ------- |
