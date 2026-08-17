@@ -49,6 +49,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/Srushti-HL/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
@@ -116,6 +117,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Srushti-HL/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
@@ -217,6 +219,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Srushti-HL/DSA_Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -417,6 +420,7 @@
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Srushti-HL/DSA_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
