@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Srushti-HL/DSA_Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Srushti-HL/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Srushti-HL/DSA_Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Srushti-HL/DSA_Practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Srushti-HL/DSA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
