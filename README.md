@@ -23,6 +23,7 @@
 | [0057-insert-interval](https://github.com/Srushti-HL/DSA_Practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Srushti-HL/DSA_Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Srushti-HL/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -74,6 +75,7 @@
 | [0012-integer-to-roman](https://github.com/Srushti-HL/DSA_Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Srushti-HL/DSA_Practice/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Srushti-HL/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -404,6 +406,7 @@
 | [0048-rotate-image](https://github.com/Srushti-HL/DSA_Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Srushti-HL/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/1572-matrix-diagonal-sum) |
