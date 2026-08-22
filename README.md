@@ -138,6 +138,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Srushti-HL/DSA_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Srushti-HL/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
