@@ -69,6 +69,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srushti-HL/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Srushti-HL/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Srushti-HL/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Srushti-HL/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Srushti-HL/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
