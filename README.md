@@ -47,6 +47,7 @@
 | [0896-monotonic-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Srushti-HL/DSA_Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srushti-HL/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -134,6 +135,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Srushti-HL/DSA_Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Srushti-HL/DSA_Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -534,4 +536,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Srushti-HL/DSA_Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
