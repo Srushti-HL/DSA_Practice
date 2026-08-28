@@ -201,6 +201,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Srushti-HL/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Srushti-HL/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srushti-HL/DSA_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Srushti-HL/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Srushti-HL/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Srushti-HL/DSA_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
