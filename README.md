@@ -64,6 +64,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srushti-HL/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -358,6 +359,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Srushti-HL/DSA_Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -463,6 +465,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Srushti-HL/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Srushti-HL/DSA_Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Radix Sort
 |  |
 | ------- |
