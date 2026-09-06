@@ -194,6 +194,7 @@
 | [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Srushti-HL/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Srushti-HL/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
@@ -257,6 +258,7 @@
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Srushti-HL/DSA_Practice/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Srushti-HL/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
