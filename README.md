@@ -202,6 +202,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Srushti-HL/DSA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Srushti-HL/DSA_Practice/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
@@ -263,6 +264,7 @@
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srushti-HL/DSA_Practice/tree/master/1510-stone-game-iv) |
