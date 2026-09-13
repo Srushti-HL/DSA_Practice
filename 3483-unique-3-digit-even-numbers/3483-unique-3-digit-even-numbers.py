@@ -1,0 +1,24 @@
+class Solution:
+    def totalNumbers(self, digits):
+        numbers = set()
+        n = len(digits)
+
+        for i in range(n):
+            for j in range(n):
+                for k in range(n):
+                    # Cannot use the same copy of a digit twice
+                    if i == j or j == k or i == k:
+                        continue
+
+                    # First digit cannot be zero
+                    if digits[i] == 0:
+                        continue
+
+                    # Last digit must be even
+                    if digits[k] % 2 != 0:
+                        continue
+
+                    num = digits[i] * 100 + digits[j] * 10 + digits[k]
+                    numbers.add(num)
+
+        return len(numbers)
