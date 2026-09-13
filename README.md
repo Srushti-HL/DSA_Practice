@@ -42,6 +42,7 @@
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srushti-HL/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/Srushti-HL/DSA_Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Srushti-HL/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0896-monotonic-array) |
@@ -459,6 +460,7 @@
 | [0054-spiral-matrix](https://github.com/Srushti-HL/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Srushti-HL/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/Srushti-HL/DSA_Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Srushti-HL/DSA_Practice/tree/master/1572-matrix-diagonal-sum) |
