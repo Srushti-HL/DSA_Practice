@@ -222,6 +222,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1927-sum-game) |
@@ -344,6 +345,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -606,4 +608,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Srushti-HL/DSA_Practice/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Srushti-HL/DSA_Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
