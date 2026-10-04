@@ -223,6 +223,7 @@
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Srushti-HL/DSA_Practice/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Srushti-HL/DSA_Practice/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
@@ -296,6 +297,7 @@
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Srushti-HL/DSA_Practice/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -354,6 +356,7 @@
 | [0042-trapping-rain-water](https://github.com/Srushti-HL/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Srushti-HL/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1096-brace-expansion-ii) |
@@ -468,6 +471,7 @@
 | [0044-wildcard-matching](https://github.com/Srushti-HL/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Srushti-HL/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Srushti-HL/DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -631,6 +635,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srushti-HL/DSA_Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
