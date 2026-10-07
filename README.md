@@ -45,6 +45,7 @@
 | [0835-image-overlap](https://github.com/Srushti-HL/DSA_Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Srushti-HL/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/0877-stone-game) |
+| [0890-find-and-replace-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -105,6 +106,7 @@
 | [0141-linked-list-cycle](https://github.com/Srushti-HL/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
+| [0890-find-and-replace-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0890-find-and-replace-pattern) |
 | [1096-brace-expansion-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srushti-HL/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -229,6 +231,7 @@
 | [0657-robot-return-to-origin](https://github.com/Srushti-HL/DSA_Practice/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Srushti-HL/DSA_Practice/tree/master/0709-to-lower-case) |
+| [0890-find-and-replace-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srushti-HL/DSA_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
