@@ -220,6 +220,7 @@
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Srushti-HL/DSA_Practice/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Srushti-HL/DSA_Practice/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Srushti-HL/DSA_Practice/tree/master/0657-robot-return-to-origin) |
@@ -387,6 +388,7 @@
 | [0077-combinations](https://github.com/Srushti-HL/DSA_Practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srushti-HL/DSA_Practice/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
@@ -573,6 +575,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Srushti-HL/DSA_Practice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
