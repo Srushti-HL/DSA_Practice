@@ -151,6 +151,7 @@
 | [0050-powx-n](https://github.com/Srushti-HL/DSA_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Srushti-HL/DSA_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Srushti-HL/DSA_Practice/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Srushti-HL/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Srushti-HL/DSA_Practice/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Srushti-HL/DSA_Practice/tree/master/0445-add-two-numbers-ii) |
@@ -219,6 +220,7 @@
 | [0087-scramble-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Srushti-HL/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Srushti-HL/DSA_Practice/tree/master/0131-palindrome-partitioning) |
+| [0168-excel-sheet-column-title](https://github.com/Srushti-HL/DSA_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Srushti-HL/DSA_Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Srushti-HL/DSA_Practice/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Srushti-HL/DSA_Practice/tree/master/0301-remove-invalid-parentheses) |
