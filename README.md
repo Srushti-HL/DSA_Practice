@@ -66,6 +66,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/Srushti-HL/DSA_Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srushti-HL/DSA_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Srushti-HL/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Srushti-HL/DSA_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -237,6 +238,7 @@
 | [1768-merge-strings-alternately](https://github.com/Srushti-HL/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1927-sum-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srushti-HL/DSA_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Srushti-HL/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srushti-HL/DSA_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -417,6 +419,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/Srushti-HL/DSA_Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/Srushti-HL/DSA_Practice/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Srushti-HL/DSA_Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Srushti-HL/DSA_Practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Srushti-HL/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Srushti-HL/DSA_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
